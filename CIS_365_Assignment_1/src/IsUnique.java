@@ -1,10 +1,11 @@
 
-import java.util.ArrayList;
-import java.util.HashSet;
 /**
  *
  * @author Matt Guzowski
  */
+import java.util.ArrayList;
+import java.util.HashSet;
+
 public class IsUnique {
     public boolean IsUnique(ArrayList<String> arrList){
     HashSet mySet = new HashSet();
